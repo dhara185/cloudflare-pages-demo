@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.container{
+  margin: 10px;
+}
+
+.newPost{
+  margin: 10px;
+}
+
+.allPost{
+  margin: 10px;
+}
+.allPost .post{
+  margin: 10px 0;
+}
